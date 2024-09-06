@@ -1,4 +1,4 @@
-# File Downloader
+# Command Line Base Downloader Application
 
 This is a simple C program that downloads a file from a specified URL and saves it to a specified location on the local filesystem using the `URLDownloadToFile` function from the `urlmon` library.
 
