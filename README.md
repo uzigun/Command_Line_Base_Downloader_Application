@@ -27,4 +27,4 @@ The program uses the `URLDownloadToFile` function to download a file from the in
 
 ## Example
 
-The program downloads an image from the provided URL and saves it as `file.jpg` in the `C:\\Users\\userOne\\Tempo\\file.jpg` directory. Adjust the URL and file path as needed.
+The program downloads an image from the provided URL and saves it as `file.jpg` in the `C:\Users\userOne\Tempo\file.jpg` directory. Adjust the URL and file path as needed.
